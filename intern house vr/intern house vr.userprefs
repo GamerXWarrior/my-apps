@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GoogleVR\Scripts\UI\SphereChanger.cs">
+    <Files>
+      <File FileName="Assets\mousecamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\spherechanger.cs" Line="1" Column="1" />
+      <File FileName="Assets\GoogleVR\Scripts\UI\SphereChanger.cs" Line="47" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
